@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "E-Keeda Institute",
+    "startDate": "Oct, 2022",
+    "endDate": "Nov, 2023",
+    "experiences": ["I pursued a Certificate with a focus on full stack development. ", "I undertook several hands-on projects that allowed me to apply theoretical knowledge to real-world scenarios"],
+    "imageSrc": "history/ekeeda.png"
+  },
+  {
+    "role": "12th Commerce",
+    "organisation": "Dr. A.M. Moolla High School",
+    "startDate": "Jun, 2014",
+    "endDate": "May, 2017",
+    "experiences": [" I developed a passion for programming. ", " I pursued independent projects, exploring coding languages"],
+    "imageSrc": "history/microsoft.png"
+  }
+]

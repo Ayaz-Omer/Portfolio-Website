@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and built a personal portfolio website",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Task Management App",
+    "imageSrc": "projects/project.png",
+    "description": "Made a CRUD Application ",
+    "skills": ["HTML","CSS","Javascript","Gsap"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "with Login and online payment features",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
